@@ -1,0 +1,22 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "ypchen NodeJS Static Web Server",
+  "main": "\u001b[A\u001b[B",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YpchenLove/anydoor.git"
+  },
+  "author": "ypchen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YpchenLove/anydoor/issues"
+  },
+  "homepage": "https://github.com/YpchenLove/anydoor#readme",
+  "devDependencies": {
+    "pre-commit": "^1.2.2"
+  }
+}
